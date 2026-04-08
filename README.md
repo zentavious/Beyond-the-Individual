@@ -1,2 +1,2 @@
 # Beyond-the-Individual
-Investigations of Ethics and Validity in Online Community Research
+This repository contains the supplemental files for the dissertation _Beyond the Individual: Ethical and Methodological Considerations in Online Community Research_ by Matthew Zent.
